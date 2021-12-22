@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm at M.S candidate in Department of Biomedical Systems Informatics, Yonsei University College of Medicine.
+
+My research interest focuses on developing models and algorithms for tackling callenges in applying machine learning to real-world healthcare domain.
+
+Specifically, I mainly focus on the following methods:
+- Federated learning
+- Interpretable machine learning
+- Continual learning and Transfer learning
+- Semi-supervesed / self-supervised learning
 
 <!--
 **tae73/tae73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
