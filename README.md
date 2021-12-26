@@ -4,7 +4,7 @@
 ### Hi there 👋
   I'm a M.S candidate in Department of Biomedical Systems Informatics, Yonsei University College of Medicine.
 
-  My research interest focuses on developing models and algorithms for tackling callenges in applying machine learning
+  My research interest focuses on developing models and algorithms for tackling callenges in applying data science such as AI
   to real-world healthcare domain.
 
   Specifically, I mainly focus on the following methods:
