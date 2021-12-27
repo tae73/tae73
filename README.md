@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&height=300&section=header&text=TaeHyun&fontAlignY=40&fontSize=100&desc=ꉂꉂ(ᵔᗜᵔ*)&descAlignY=65&animation=twinkling)
 
 ### Hi there 👋
-  I'm a M.S candidate in Department of Biomedical Systems Informatics, Yonsei University College of Medicine.
+  I'm a M.S candidate in department of Biomedical Systems Informatics, Yonsei University College of Medicine.
 
   My research interest focuses on developing models and algorithms for tackling callenges in applying data science such as AI
   to real-world healthcare domain.
