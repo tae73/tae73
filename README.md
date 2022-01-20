@@ -1,5 +1,5 @@
 <!-- https://github.com/kyechan99/capsule-render#custom-color-list -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&height=300&section=header&text=TaeHyun&fontAlignY=40&fontSize=100&desc=:)&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&height=300&section=header&text=TaeHyun&fontAlignY=40&fontSize=100&desc='':)''&descAlignY=65&animation=twinkling)
 
 ### Hi there 👋
   I'm a M.S candidate in department of Biomedical Systems Informatics, Yonsei University College of Medicine.
