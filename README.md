@@ -11,7 +11,7 @@
   - Federated learning
   - Interpretable machine learning
   - Continual learning and Transfer learning
-  - Semi-supervesed / self-supervised learning
+  - Semi-supervised / self-supervised learning
 
 <!--   <br /><br />
   <h3>Tech Stack</h3>
