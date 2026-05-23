@@ -2,16 +2,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&height=300&section=header&text=Tae&nbsp;Hyun&fontAlignY=40&fontSize=100&desc=ꔷ̑◡ꔷ̑&descAlignY=65&animation=twinkling)
 
 ### Hi there 👋
-  I'm a M.S candidate in department of Biomedical Systems Informatics, Yonsei University College of Medicine.
+I'm a Data Scientist at Hanwha General Insurance.
 
-  My research interest focuses on developing models and algorithms for tackling callenges in applying data science such as AI
-  to real-world healthcare domain.
+My work sits at the intersection of causal inference, statistical modeling,
+and LLM-driven agentic systems.
 
-  Specifically, I mainly focus on the following methods:
-  - Federated learning
-  - Interpretable machine learning
-  - Continual learning and Transfer learning
-  - Semi-supervised / self-supervised learning
+🏢 What I Do
+- Causal inference & CATE estimation for marketing optimization
+- Multi-touch attribution & budget allocation (Inhomogeneous Poisson + Shapley)
+- Multi-agent LLM systems for insurance operations (LangChain / LangGraph)
+
+🔬 Research Interests
+- Causal inference for individualized treatment effect estimation
+- LLM-driven multi-agent frameworks for clinical decision support
+- Dynamic & optimal treatment regimens (DTR / OTR)
+
+📄 Publications
+- PPFL: Personalized Progressive Federated Learning (iScience, 2024) [First author]
+- WiCox: Federated Cox model for distributed survival analysis (IEEE JBHI, 2022)
 
 <!--   <br /><br />
   <h3>Tech Stack</h3>
